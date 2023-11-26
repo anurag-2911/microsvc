@@ -1,4 +1,4 @@
-module postsvc
+module postdbsvc
 
 go 1.21.4
 
